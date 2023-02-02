@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <title>References - Senal Karanda</title>
+    <link rel="stylesheet" type="text/css" href="app.css">
+    <script>
+        fetch('json/data_references.json')
+          .then(response => response.json())
+          .then(data => {
+            const eventsContainer = document.querySelector('.timeline');
+            data.forEach(reference => {
+              const event = document.createElement('div');
+              event.classList.add('event');
+              event.innerHTML = `
+                <h3>${reference.name}</h3>
+                <p>${reference.title} at ${reference.company}</p>
+                <a href="mailto:${reference.email}">${reference.email}</a>
+                <a href="#">${reference.phone}</a>
+              `;
+              eventsContainer.appendChild(event);
+            });
+          });
+      </script>      
+  </head>
+  <body>
+    <header>
+        <div class="backButton">
+          <a href="index.html"><h2>Back</h2></a>
+        </div>
+        <div class="title">
+          <h1>References</h1>
+        </div>
+    </header>
+    <div class="timeline">
+    </div>
+  </body>
+</html>

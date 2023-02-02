@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Shane Moore",
+        "title": "Systems Administrator",
+        "company": "UICGS",
+        "email": "smm27509@gmail.com",
+        "phone": "(555) 555-5555"
+    },
+    {
+        "name": "Pisal Yim",
+        "title": "Solutions Engineer",
+        "company": "Exiger",
+        "email": "pisal.alexandria@gmail.com",
+        "phone": "(555) 555-5556"
+    },
+    {
+        "name": "Matthew Nabel",
+        "title": "RPA Developer",
+        "company": "Southern Company",
+        "email": "mpnabel@gmail.com",
+        "phone": "(555) 555-5557"
+    },
+    {
+        "name": "Kelly Falzalore",
+        "title": "HR Manager",
+        "company": " Agility Clinical",
+        "email": "falzalorekel@gmail.com",
+        "phone": "(555) 555-5557"
+    }
+]

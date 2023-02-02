@@ -1,0 +1,6 @@
+[
+  { "name": "LAMP", "level": 65 },
+  { "name": "Apache", "level": 70 },
+  { "name": "Nginx", "level": 60 },
+  { "name": "Wordpress", "level": 80 }
+]

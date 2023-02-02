@@ -1,0 +1,51 @@
+[  
+    {    
+        "title": "Founder/Lead Technician",    
+        "company": "Tesselex Solutions",
+        "excerpt": "",    
+        "description": "Designed and created hybrid html/css & Wordpress websites for five clients, and programmed various types of pages that serve different purposes. Acquired domain names, hosted, and maintained the websites for clients. Installed, configured, and managed client hardware & network infrastructure. Configured & set up PC's, Modems, & Routers, and installed essential software onto the system for clients, such as point of sale systems, tax software, and office & productivity software. Analyzed existing network infrastructure for security flaws and reconciled any found issues. Devised & deployed secure network configuration for clients to reduce downtime.",      
+        "linkHref": "#"  
+    },  
+    {    
+        "title": "Technicial Support Associate",    
+        "company": "Staples Inc.",
+        "excerpt": "",    
+        "description": "Regularly handled customer interactions and ensured a healthy balance between customer satisfaction, optimal sales numbers, and customer retention. On Windows/Linux PCs, diagnosed and eliminated trojan horses, ransomware, rootkits, and configured group policies to ensure maximum security. Handled various hardware issues, such as dead batteries, hard drive failure, and replacement of other malfunctioned internal components. Logged all communication with the clients to ensure the work done was compliant with the contract. Managed live documentation reporting data related to issues & repairs in an effort to facilitate communication among technicians.",     
+        "linkHref": "#"  
+    },  
+    {    
+        "title": "Customer Service Associate",    
+        "company": "Wawa Inc.",
+        "excerpt": "",    
+        "description": "",     
+        "linkHref": "#"  
+    },  
+    {    
+        "title": "Shift Manager",    
+        "company": "Jimmy John's Inc.",
+        "excerpt": "",   
+        "description": "",     
+        "linkHref": "#"  
+    },  
+    {    
+        "title": "Package Handler",    
+        "company": "UPS",
+        "excerpt": "",    
+        "description": "",      
+        "linkHref": "#"  
+    },  
+    {    
+        "title": "Saute Chef",    
+        "company": "Fahrenheit 132/Skybar",
+        "excerpt": "",    
+        "description": "",     
+        "linkHref": "#"  
+    },  
+    {    
+        "title": "Cashier/Host",    
+        "company": "Joe's Crab Shack",
+        "excerpt": "",    
+        "description": "",     
+        "linkHref": "#"  
+    }
+]

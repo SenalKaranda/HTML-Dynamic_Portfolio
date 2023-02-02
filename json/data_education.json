@@ -1,0 +1,21 @@
+[
+    {
+      "degree": "Advanced Studies Diploma",
+      "fieldOfStudy": "Computer Science",
+      "school": "Riverbend High School",
+      "startDate": "September 2011",
+      "endDate": "June 2014",
+      "description1": "Founded the Cybersecurity Club in 2013. Recruited students with a passion for IT and Cybersecurity to compete for our school’s team in CyberPatriot competitions for 2 years. Trained the team in Ethical Hacking and Penetration Testing, as well as teaching them basic principles of applying cyber knowledge to real life situations. Used VMWare deployments to practice using cybersecurity tools such as Kali and Metasploit.",
+      "description2": "Competed in the VCU Java competition in 2014.",
+      "description3": "Competed at Virginia Tech’s college level CTF competition as a special guest team."
+    },
+    {
+      "degree": "Pursuing an AS",
+      "fieldOfStudy": "Cybersecurity",
+      "school": "Germanna CC",
+      "startDate": "Summer 2023",
+      "endDate": "Summer 2025"
+      
+    }
+  ]
+  

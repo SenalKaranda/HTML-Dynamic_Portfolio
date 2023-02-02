@@ -1,0 +1,28 @@
+[
+    {
+      "title": "Endless Runner (Unreal Engine)",
+      "excerpt": "C++",
+      "description": "An endless runner minigame I developed in C++. The game is run by a LevelHandler class, that uses prefabricated levels that I’ve designed to allow the player to run infinitely until they collide with a KillObstacle object, or the wall following catches up with them.",
+      "link_url": "#"
+    },
+    {
+      "title": "Terrain Generation (Unreal Engine)",
+      "excerpt": "C++",
+      "description": "A procedural terrain generator I coded for Unreal Engine 5. I used the Diamond Square algorithm and perlin noise to generate custom terrain on a procedural mesh. I added functions to randomly generate trees, rocks, and flowers, accordingly.",
+      "link_url": "#"
+      },
+      {
+        "title": "Pong HD (Unreal Engine)",
+        "excerpt": "C++, Blueprint",
+        "description": "Pong Reloaded is a futuristic remake of the classic Pong game. This project helped me improve my knowledge of 2D physics to control movement and reaction of the ball, and persistent data to keep scores between rounds & games. Created meshes for the arena, ball, and racquets using 3D Sculpting/CAD software.",
+        "link_url": "#"
+      },
+      {
+        "title": "Music Towers (Unreal Engine)",
+        "excerpt": "Blueprint",
+        "description": "Music Towers is a project I created for the Unreal Engine Marketplace, for other developers to use in their projects. It is a template that uses audio analysis and real-time reactive scene components that change with the music. The purpose of this project was to dive into audio analysis and tackle a new challenge. I improved my sense of perspective as a developer by keeping in mind the needs of the developers using my product, and ensuring it was as easy to implement as possible.",
+        "link_url": "#"
+      }
+]
+    
+  
